@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2630,100:2c3645&height=130&section=header&text=design%20%26%20code&fontSize=28&fontColor=a8c7fa&fontAlignY=42)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:161616,100:262626&height=130&section=header&text=design%20%26%20code&fontSize=26&fontColor=e5e5e5&fontAlignY=38)
 
-![Figma](https://img.shields.io/badge/Figma-1f2630?style=for-the-badge&logo=figma&logoColor=a8c7fa)
-![HTML5](https://img.shields.io/badge/HTML5-1f2630?style=for-the-badge&logo=html5&logoColor=a8c7fa)
-![Python](https://img.shields.io/badge/Python-1f2630?style=for-the-badge&logo=python&logoColor=a8c7fa)
-![Java](https://img.shields.io/badge/Java-1f2630?style=for-the-badge&logo=openjdk&logoColor=a8c7fa)
+![Figma](https://img.shields.io/badge/Figma-1c1c1c?style=for-the-badge&logo=figma&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-1c1c1c?style=for-the-badge&logo=html5&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-1c1c1c?style=for-the-badge&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-1c1c1c?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 
 </div>
