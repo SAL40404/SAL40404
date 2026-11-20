@@ -1,6 +1,6 @@
 ### Zkay
 
-![Python](https://img.shields.io/badge/Python-1e232a?style=for-the-badge&labelColor=1e232a)
-![HTML5](https://img.shields.io/badge/HTML5-1e232a?style=for-the-badge&labelColor=1e232a)
-![Java](https://img.shields.io/badge/Java-1e232a?style=for-the-badge&labelColor=1e232a)
-![Figma](https://img.shields.io/badge/Figma-1e232a?style=for-the-badge&labelColor=1e232a)
+![Python](https://img.shields.io/badge/Python-1e232a?style=for-the-badge&logo=python&logoColor=a8c7fa)
+![HTML5](https://img.shields.io/badge/HTML5-1e232a?style=for-the-badge&logo=html5&logoColor=f2b8b5)
+![Java](https://img.shields.io/badge/Java-1e232a?style=for-the-badge&logo=openjdk&logoColor=fde293)
+![Figma](https://img.shields.io/badge/Figma-1e232a?style=for-the-badge&logo=figma&logoColor=d0bcff)
