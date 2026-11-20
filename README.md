@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A8C7FA&center=true&vCenter=true&width=435&height=35&lines=404+not+found;idk+what+to+put+here;...)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1e232a&height=90&section=header)
 
 ![Python](https://img.shields.io/badge/Python-1e232a?style=for-the-badge&logo=python&logoColor=a8c7fa)
 ![HTML5](https://img.shields.io/badge/HTML5-1e232a?style=for-the-badge&logo=html5&logoColor=f2b8b5)
